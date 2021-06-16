@@ -10,7 +10,7 @@
 <channel>
 	<title>MyWordpress</title>
 	<atom:link href="/https://wphunter.ml/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://wphunter.ml</link>
+	<link>/https://wphunter.ml/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Wed, 16 Jun 2021 07:05:53 +0000</lastBuildDate>
 	<language>en-US</language>
